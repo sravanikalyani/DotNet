@@ -1,2 +1,2 @@
 # DotNet
-Capgemini Training sessions sep19
+ Training sessions sep19
