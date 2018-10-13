@@ -1,0 +1,29 @@
+Read the CaseStudy well, understand the requirements and start 
+splitting the Modules.
+
+1. Create Query Tracking Sheet
+	Use the Template given
+
+2. Write TestCases based on requirements
+	Use the Test Case Template shared during PF
+	
+3. Create UseCase Diagram & Class Diagram
+3.1 Create Sample HTML Pages
+3.2 Create Pseudocode for any one core operation to be performed in the project.
+
+4. Create the DataBase Design (Tables Creation)
+	In the document itself you can see the Table Structure
+	Create Schemas with your groupNo and then create tables
+		eg. Group1.Customer, Group2.Books
+
+5. Create StoredProcedures for each Operation you perform.
+
+6. Create Layered Architecture 
+	1.Entity - M2
+	2.Exception - M2
+	3.DAL -M3
+	4.BL - M2(Validation)/M3
+	5.PL - WPF Application - M3
+
+
+ 
